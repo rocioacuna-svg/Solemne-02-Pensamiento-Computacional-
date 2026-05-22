@@ -15,3 +15,5 @@ Que aprendi:
 - Creo que ahora soy mas rapida en cuanto al razonamiento, osea cuando me salta un error lo logro identificar rapido y cuando quiero poner algo nuevo pienso un rato en como podria hacerlo y me funciona, bueno no perfectamente a la primera pero si 😁.
 Que no me salio: 
 - Cosas que no me salieron fueron pocas porque busque en tdodos lados lo que queria hacer hasta que lo encomtraba y mi ultima opcion era la ia pero algo que queria era hacer como un boton de inicio o reiniciar y busque y habia poca info y no entendi 😔.
+
+## Diagrama de flujo 
