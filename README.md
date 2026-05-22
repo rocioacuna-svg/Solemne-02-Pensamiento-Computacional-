@@ -2,7 +2,8 @@
 Creado por: Rocio Acuña
 # Bouncing in Space
 
-**Descripcion objetiva**
+**Descripcion objetiva :**
+
 El proyecto consiste en un minijuego interactivo inspirado en el espacio. El jugador debe controlar una barra utilizando el mouse para evitar que la pelota caiga. Cada vez que la pelota rebota correctamente en la barra, el jugador gana un punto y la pelota cambia de color aleatoriamente.
 El objetivo principal es llegar a 10 puntos para desbloquear la pantalla de victoria. Si la pelota cae fuera de la pantalla, aparece la pantalla de “GAME OVER”.
 
