@@ -2,6 +2,8 @@
 Creado por: Rocio Acuña
 # Bouncing in Space
 
+![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
+
 **Descripcion objetiva :**
 
 El proyecto consiste en un minijuego interactivo inspirado en el espacio. El jugador debe controlar una barra utilizando el mouse para evitar que la pelota caiga. Cada vez que la pelota rebota correctamente en la barra, el jugador gana un punto y la pelota cambia de color aleatoriamente.
@@ -19,7 +21,7 @@ El juego incluye diferentes elementos visuales animados como:
 
 
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
-![imagen]() 
+![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(62).png?raw=true) 
 ![imagen]()
 ![imagen]() 
 
