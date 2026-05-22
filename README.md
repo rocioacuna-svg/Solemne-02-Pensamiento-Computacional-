@@ -1,7 +1,7 @@
 # Solemne-02-Pensamiento-Computacional-
 
 ## Juego espacial 
-
+![Texto alternativo](Captura de pantalla (58).png)
 REFERENCIA
 ![Texto alternativo](referenciagame.jpg)
 
