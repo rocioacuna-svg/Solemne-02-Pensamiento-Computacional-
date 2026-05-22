@@ -1,2 +1,3 @@
 # Solemne-02-Pensamiento-Computacional-
-# juego espacial 
+# Juego espacial 
+## que quiero lograr  ##
