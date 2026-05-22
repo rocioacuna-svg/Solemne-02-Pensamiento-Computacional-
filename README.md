@@ -20,6 +20,8 @@ El juego incluye diferentes elementos visuales animados como:
 
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
 ![imagen]() 
+![imagen]()
+![imagen]() 
 
 **REFERENCIA**
 
