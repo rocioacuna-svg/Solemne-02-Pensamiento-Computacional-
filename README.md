@@ -3,8 +3,9 @@
 # Bouncing in Space
 Creado por : Rocio Acuña 
 
-[link](https://editor.p5js.org/rocio.acuna/full/ERDtiFk9w)
-[link](https://editor.p5js.org/rocio.acuna/sketches/ERDtiFk9w)
+- Link editable [link](https://editor.p5js.org/rocio.acuna/full/ERDtiFk9w)
+- Link Pantalla completa [Link link](https://editor.p5js.org/rocio.acuna/sketches/ERDtiFk9w)
+
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
 
 **REFERENCIA**
