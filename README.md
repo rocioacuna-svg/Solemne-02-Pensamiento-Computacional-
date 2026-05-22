@@ -18,9 +18,7 @@ El juego incluye diferentes elementos visuales animados como:
 - confeti
 - imágenes de victoria y derrota
 
-
-
-![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
+![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(60).png?raw=true)
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(62).png?raw=true) 
 ![imagen]()
 ![imagen]() 
