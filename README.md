@@ -1,7 +1,7 @@
 # Solemne-02-Pensamiento-Computacional-
 
 ## Juego espacial 
-![imagen](Captura de pantalla (58).png)
+![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(58).png?raw=true)
 REFERENCIA
 ![imagen](referenciagame.jpg)
 
