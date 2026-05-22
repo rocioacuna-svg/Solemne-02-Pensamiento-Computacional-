@@ -1,5 +1,5 @@
-# Solemne-02-Pensamiento-Computacional-
-## Rocio Acuña
+# Solemne-02-Pensamiento-Computacional
+Creado por: Rocio Acuña
 # Bouncing in Space
 
 El proyecto consiste en un minijuego interactivo inspirado en el espacio. El jugador debe controlar una barra utilizando el mouse para evitar que la pelota caiga. Cada vez que la pelota rebota correctamente en la barra, el jugador gana un punto y la pelota cambia de color aleatoriamente.
