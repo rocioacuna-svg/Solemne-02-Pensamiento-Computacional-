@@ -28,8 +28,6 @@ El juego incluye diferentes elementos visuales animados como:
 
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(60).png?raw=true)
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(62).png?raw=true) 
-![imagen]()
-![imagen]() 
 
 
 Estos elementos funcionan como distractores visuales para hacer el juego más dinámico y entretenido.
