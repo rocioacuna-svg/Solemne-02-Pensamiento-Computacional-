@@ -1,6 +1,7 @@
 # Solemne-02-Pensamiento-Computacional
-Creado por: Rocio Acuña
+
 # Bouncing in Space
+Creado por : Rocio Acuña 
 
 [link](https://editor.p5js.org/rocio.acuna/full/ERDtiFk9w)
 [link](https://editor.p5js.org/rocio.acuna/sketches/ERDtiFk9w)
