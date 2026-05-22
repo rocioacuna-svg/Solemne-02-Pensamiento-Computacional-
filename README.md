@@ -72,4 +72,5 @@ Para solucionarlo, agregué un cambio en la velocidad horizontal usando `random(
 Con esto, el juego se volvió más interactivo, menos predecible y con una dificultad más equilibrada para el jugador.
 
 ## Diagrama de flujo 
+Simple y justo.
 [link](https://canva.link/z1aolwiapoe7gfa)
