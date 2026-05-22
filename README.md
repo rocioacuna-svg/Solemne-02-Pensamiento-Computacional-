@@ -2,6 +2,8 @@
 Creado por: Rocio Acuña
 # Bouncing in Space
 
+[link](https://editor.p5js.org/rocio.acuna/full/ERDtiFk9w)
+[link](https://editor.p5js.org/rocio.acuna/sketches/ERDtiFk9w)
 ![imagen](https://github.com/rocioacuna-svg/Solemne-02-Pensamiento-Computacional-/blob/main/images/Captura%20de%20pantalla%20(61).png?raw=true)
 
 **REFERENCIA**
@@ -47,22 +49,27 @@ output visual dinámico
 
 Todo esto permite crear una experiencia interactiva y reactiva para el jugador.
 
-Que queria lograr: 
-- Un juego donde se pierde y se gana y que salieran imagenes cuando pasaran esas cosas si o si. (tuve que buscar videos en redes sociales de como utilizar algunos codigos que no habiamos visto y ayuda de la ia para aplicalo bien, pero igual me saltaron demasiados errorews y hasta se quedo pegada la pagina una vez 😅.)
-Que aprendi:
-- Creo que ahora soy mas rapida en cuanto al razonamiento, osea cuando me salta un error lo logro identificar rapido y cuando quiero poner algo nuevo pienso un rato en como podria hacerlo y me funciona, bueno no perfectamente a la primera pero si 😁.
-Que no me salio: 
-- Cosas que no me salieron fueron pocas porque busque en tdodos lados lo que queria hacer hasta que lo encomtraba y mi ultima opcion era la ia pero algo que queria era hacer como un boton de inicio o reiniciar y busque y habia poca info y no entendi 😔.
+# Qué quería lograr
 
-**ERRORES que encontre y solucione**
+Quería crear un juego donde se pudiera perder y ganar, y que aparecieran imágenes cuando pasaran esas cosas sí o sí. Tuve que buscar videos en redes sociales para aprender a usar algunos códigos que no habíamos visto en clases y también usé ayuda de IA para aplicarlos bien. Aun así, me aparecieron muchos errores e incluso una vez la página se quedó pegada 😅.
 
-Mientras probaba el  juego encontré un problema en la lógica de rebote de la pelota. La pelota siempre seguía el mismo recorrido y terminaba rebotando en los mismos lugares, por lo que después de jugar varias veces era fácil predecir dónde iba a caer y ganar siempre.
+# Qué aprendí
 
-El problema era la velocidad horizontal (speedX) nunca cambiaba al rebotar con la barra. El código solamente invertía la velocidad vertical (speedY), lo que hacía que la trayectoria fuera la misma.
+Creo que ahora soy más rápida en cuanto al razonamiento. Cuando aparece un error, logro identificarlo más rápido y, cuando quiero agregar algo nuevo, pienso un rato en cómo podría hacerlo. No siempre me funciona perfectamente a la primera, pero igual logro resolverlo 😁.
 
-Para solucionarlo, agregué un cambio en la velocidad horizontal usando random(). De esta manera, cada vez que la pelota rebota en la barra, el ángulo cambia y el movimiento se vuelve más dinámico e impredecible.
-Con esto el juego se volvió más interactivo, menos predecible y con una dificultad más equilibrada para el jugador.
+# Qué no me salió
 
+Las cosas que no me salieron fueron pocas, porque busqué en muchos lugares hasta encontrar cómo hacerlas y dejaba la IA como última opción. Algo que sí quería agregar era un botón de inicio o reinicio, pero encontré muy poca información y no logré entender bien cómo hacerlo 😔.
+
+# Errores que encontré y solucioné
+
+Mientras probaba el juego, encontré un problema en la lógica de rebote de la pelota. La pelota siempre seguía el mismo recorrido y terminaba rebotando en los mismos lugares, por lo que, después de jugar varias veces, era fácil predecir dónde iba a caer y ganar siempre.
+
+El problema era que la velocidad horizontal (`speedX`) nunca cambiaba al rebotar con la barra. El código solamente invertía la velocidad vertical (`speedY`), lo que hacía que la trayectoria fuera siempre la misma.
+
+Para solucionarlo, agregué un cambio en la velocidad horizontal usando `random()`. De esta manera, cada vez que la pelota rebota en la barra, el ángulo cambia y el movimiento se vuelve más dinámico e impredecible.
+
+Con esto, el juego se volvió más interactivo, menos predecible y con una dificultad más equilibrada para el jugador.
 
 ## Diagrama de flujo 
 [link](https://canva.link/z1aolwiapoe7gfa)
