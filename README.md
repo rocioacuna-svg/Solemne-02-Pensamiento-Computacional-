@@ -1,7 +1,7 @@
 # Solemne-02-Pensamiento-Computacional-
 
 ## Juego espacial 
-
+![Texto alternativo](referenciagame.jpg)
 
 
 Que queria lograr: 
